@@ -7,8 +7,8 @@ A python script which can generate TWO scripts for CLOUDFLARE WARP.
 ## 使用
 在对应的wg conf的Interface下写入：
 ```
-  PostUp = bash /path/to/your/chnrouteup
-  PostDown = bash /path/to/your/chnroutedown
+PostUp = bash /path/to/your/chnrouteup
+PostDown = bash /path/to/your/chnroutedown
 ```
 
 最后更新：2021年6月6日
