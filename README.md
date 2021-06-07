@@ -13,3 +13,5 @@ PostDown = bash /path/to/your/chnroutedown
 
 最后更新：2021年6月6日
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HalvezGO)](https://github.com/anuraghazra/github-readme-stats)
+
